@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Manik%20Poduri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%2F%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/Manik-Poduri/Manik-Poduri/main/banner.svg" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+ML+systems+that+solve+real+problems;Turning+data+into+decisions;Random+Forest+%7C+XGBoost+%7C+Spark+%7C+Tableau" alt="Typing SVG" />
@@ -24,7 +24,7 @@ I build end-to-end machine learning systems — from data pipelines to productio
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,spark,tableau,postgres,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,spark,tableau,postgres,typescript,javascript,git,vscode&theme=dark" />
 </p>
 
 ---
@@ -73,6 +73,29 @@ I build end-to-end machine learning systems — from data pipelines to productio
       <br><br>
       <img src="https://img.shields.io/badge/Tableau-orange?style=flat-square" />
     </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🕵️ <a href="https://github.com/Manik-Poduri/Agent-Audit">Agent-Audit</a></h4>
+      Python-based project for auditing and evaluating AI agent behavior.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h4>💻 <a href="https://github.com/Manik-Poduri/claims-frontend">Claims Frontend</a></h4>
+      TypeScript frontend application for a claims management/processing workflow.
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🧭 <a href="https://github.com/Manik-Poduri/agent-onboarding">Agent Onboarding</a></h4>
+      JavaScript project for onboarding and configuring AI agents.
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" />
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
