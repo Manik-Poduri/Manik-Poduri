@@ -100,7 +100,13 @@ I build end-to-end machine learning systems — from data pipelines to productio
 </table>
 
 ---
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manik-Poduri/Manik-Poduri/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
 ### 📫 Let's Connect
 
 <p align="left">
